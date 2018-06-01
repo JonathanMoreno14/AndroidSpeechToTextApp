@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">SpeechlyText</string>
+    <string name="instructionMicrophone">Tap on mic to start</string>
+</resources>
